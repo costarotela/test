@@ -9,3 +9,4 @@
 7- git commit --amend                   "para arreglar un comentario hecho en el commit"
 8- git checkout -b rama-heroes          "-b para crear un rama o branch y no trabajar sobre la rama master"
 9- git branch                           "lista las ramas existentes"
+10-git checkout master                  "me paso a la rama master"
