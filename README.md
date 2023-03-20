@@ -13,4 +13,5 @@
 11. git merge <nombre de rama>           "fusiona las ramas"
 12. git branch -d <nombre de rama>       "elimina una rama entera"
 13. git push                             "envia todo al repositorio remoto"
+14. git commit -am "TODO ACTUALIZADO"    "realiza los cambios simultaneamente cuando git ya tiene segumiento" git add . + git commit -d "MENSAJE"
 
